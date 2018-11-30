@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Maktaba Jibreel</string>
+    <string name="home_welcome">Welcome</string>
+    <string name="home_text">Biggest Collection of Urdu Specially Islamic Book.</string>
+    <string name="home_icon_bar_text">Books</string>
+    <string name="home_icon_search_text">Search Details</string>
+    <string name="home_icon_star_text">Bookmark</string>
+    <string name="home_icon_open_book_text">Current Readings</string>
+    <string name="home_icon_close_book_text">My Library</string>
+</resources>

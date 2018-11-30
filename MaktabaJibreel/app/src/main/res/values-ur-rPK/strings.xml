@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Maktaba Jibreel</string>
+    <string name="home_welcome">خوش  آمدید</string>
+    <string name="home_text">اردو خصوصا اسلامی کتب کا سب سے برا ذخيرہ</string>
+    <string name="home_icon_bar_text">ترتیبات</string>
+    <string name="home_icon_search_text">تفصیل تلاش</string>
+    <string name="home_icon_star_text">بک مارک</string>
+    <string name="home_icon_open_book_text">حالیہ مطالعہ</string>
+    <string name="home_icon_close_book_text">میری لائبریری</string>
+</resources>
